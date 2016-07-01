@@ -1,0 +1,137 @@
+3556002	3	fa	Zamīn Sūkhteh				
+11169904	3	fa	زمين سوخته				
+2488123	4	fa	رودخانه زاکلی				
+2488124	4	fa	Āb-e Zālakī				
+3234616	4	fa	Rūdkhāneh-ye Zākalī				
+3556003	5	fa	Yekāhī				
+3556005	8	fa	Tappeh-ye Seh Nūr				
+2322228	9	fa	کوه یلمی				
+2322229	9	fa	Kūh-e Talmī				
+3234617	9	fa	Kūh-e Yalmī				
+1765789	11	fa	تَختِ جان				
+2322230	12	fa	تخت قیصر				
+2322231	12	fa	Takht-e Āzādī				
+3556006	12	fa	Takht-e Qeyşar				
+8078498	12	link	http://en.wikipedia.org/wiki/Takht-e_Qeysar				
+3556007	13		Takht Arreh Yek				
+8069220	13	link	http://en.wikipedia.org/wiki/Takht_Arreh_Yek				
+11216310	13	fa	تخت اره يک				
+8089459	14	link	http://en.wikipedia.org/wiki/Takht_Arreh_Do				
+11216311	14		Kūh-e Takht-e Arreh				
+11216312	14	fa	کوه تخت اره				
+3556009	15	fa	Tīleh				
+3556010	16	fa	Solţān Moḩammad				
+11169905	16	fa	سلطان محمد				
+1765790	17	fa	كوهِ شُتُر خواب				
+3556011	17	fa	Kūh-e Shotor Khvāb				
+3076226	18	fa	Rūdkhāneh-ye Shūr				
+3076227	18		رودخانه شور				
+5906920	18	fa	رودخانه شور				
+2322233	19	fa	رودخانه شور				
+3556012	19	fa	Rūdkhāneh-ye Shūr				
+11109072	19		Shūr-i-Lahabari				
+11109073	19		Ab-i-Shūr				
+11109074	19		Āb-e Shūr				
+11109075	19		Āb-e Sūr				
+11109076	19	fa	آب سور				
+3556013	20	fa	Sheykh Sa‘d				
+11216313	20	fa	شيخ سعد				
+3556014	22	fa	Sheykh Khomāţ				
+8099449	22	link	http://en.wikipedia.org/wiki/Sheykh_Khomat				
+11169906	22		Shahīd Madanī				
+11169907	22	fa	شهید مدنی				
+11169908	22		Najeh-ye Khammād				
+11169909	22		Khommād				
+11169910	22		Shahrak-e Shahīd Madanī				
+11169911	22		Eyn Ollāvī				
+11169912	22		‘Eynollāh Valī				
+11169913	22		Khammād				
+11169914	22	fa	شهرک شهید مدنی				
+11169915	22	fa	شيخ خماط				
+11169916	22	fa	خماد				
+3556015	23	fa	Sheykh Şāleḩ Sā‘īd				
+3556016	24	fa	Sheykh Ḩoseyn				
+3556017	25	fa	Sheykh ‘Alī Aşghar				
+11216314	25		Seyyed Moşţafā Khomeynī				
+11216315	25	fa	سید مصطفی خمینی				
+11216316	25		‘Alī Aşghar				
+11216317	25		‘Eyn el Foqeyyer				
+11216318	25		‘Eyn ol Faqīr				
+11216319	25		Sheykh Aḩmad-e Khomeynī				
+11216320	25		Seyyed Aḩmad-e Khomeynī				
+11216321	25	fa	علی اصغر				
+11216322	25	fa	شیخ علی اصغر				
+11216323	25	fa	سیّد احمد خمینی				
+3556018	26	fa	Sheykh ‘Ajam				
+3556019	29	fa	Sharū-ye ‘Olyā				
+11216324	29		Sharū				
+11216325	29	fa	شرو				
+3556020	30	fa	Shāreh Kanī				
+3556021	31	fa	Sharaf od Dīn				
+11216326	31		Sharī‘at ed Dīn				
+11216327	31		Sharateddīn				
+3556022	33	fa	Shahīdān-e Zeyd				
+11169917	33		Emāmzādeh Shahīdān-e Zayd				
+11169918	33	fa	امامزاده شهیدان زید				
+11169919	33		Emāmzādeh Sheydūn Jak				
+11169920	33	fa	امامزاده شیدون جک				
+11109077	34		Pīr Seyyed				
+11109078	34	fa	پیر سیّد				
+11109079	34		Shīrkeshān				
+11109080	34	fa	شيرکشان				
+3556023	36	fa	Shīrīnāb				
+3556024	37	fa	Seyyed Şobhān				
+8084453	37	link	http://en.wikipedia.org/wiki/Seyyed_Sobhan				
+2322234	38	fa	سیّد نور				
+3556025	38	fa	Seyyed Nūr				
+8082565	38	link	http://en.wikipedia.org/wiki/Seyyed_Nur				
+11169921	38	fa	سید نور				
+11169922	38		Shahrak-e Seyyed Nūr				
+11169923	38	fa	شهرک سیّد نور				
+2322235	39	fa	سیّد محمّد				
+2322236	39	fa	Seyyed Moḩammad Kolābī				
+3556026	39	fa	Seyyed Moḩammad				
+3556027	40	fa	Seyyed Moḩammad				
+3556028	41	fa	Kūh-e Seh Kūh				
+11216328	41		Seh Kūh				
+11216329	41	fa	سه کوه				
+11216330	41		Kūh-e Būsāl				
+11216331	41	fa	کوه بوسال				
+3556029	42	fa	Kūh-e Satrūn				
+3556030	43	fa	Sartal Āqā				
+3556031	44	fa	Kūh-e Sarhad				
+11216332	44	fa	کوه سرهد				
+2322237	45	fa	کوه سره				
+3556032	45	fa	Kūh-e Sareh				
+2322238	47	fa	سر گچ آبژدان				
+2322239	47	fa	Shūkol-e Sar Gach				
+2322240	47	fa	Ābezhdān				
+2322241	47	fa	Solţānābād				
+2322242	47		Sar Gach				
+3556033	47	fa	Sar Gach-e Ābezhdān				
+3556034	48		Sar Cheshmeh				
+11293263	48	link	http://en.wikipedia.org/wiki/Sar_Cheshmeh%2C_Khuzestan				
+3556035	49	fa	Sangar-e Soflá				
+11169924	49		Tappeh Shangar-e ‘Olyā				
+11169925	49	fa	تپه شنگر علیا				
+11169926	49		Shangar-e ‘Olyā				
+11169927	49		Shongor Pā’īn				
+11169928	49		Shongor-e Soflá				
+11169929	49		Shongor-e Pā’īn				
+11169930	49		Shongor				
+11169931	49		Sangar-e ‘Olyā				
+11169932	49		Shagar-e Bālā				
+11169933	49		Shongor Bālā				
+11169934	49		Shongor-e Bālā				
+11169935	49		Shongor-e ‘Olyā				
+11169936	49	fa	شنگر علیا				
+11169937	49	fa	شگر بالا				
+3556037	51	fa	Sandāl				
+11216333	51	fa	سندال				
+11216334	51		Sendān				
+11216335	51	fa	سندان				
+3556038	52	fa	Sakhī				
+3556039	53		Sag Mordeh				
+3556040	55	fa	Rūkī				
+3556041	56	fa	Razī				
+1765791	57	fa	رَز آب				
