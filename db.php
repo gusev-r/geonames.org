@@ -1,20 +1,21 @@
 <?php
 
 class db {
-
+    private $servername;
+    private $username;
+    private $password;
+    private $dbname;
+    
     function __construct() {
-        
+        $this->servername = "localhost";
+        $this->username = "root";
+        $this->password = "123123";
+        $this->dbname = "test_1";
     }
 
     public function insert($importData, $arrayNames,$tableName) {
-
-        $servername = "localhost";
-        $username = "root";
-        $password = "123123";
-        $dbname = "test";
-
         try {
-            $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+            $conn = new PDO("mysql:host=$this->servername;dbname=$this->dbname", $this->username, $this->password);
             // set the PDO error mode to exception
             $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
             
@@ -28,13 +29,27 @@ class db {
                 extract($row);
                 $stmt->execute();
             }
-            echo "New records created successfully";
+            return TRUE;
+        } catch (PDOException $e) {
+            echo "Error: " . $e->getMessage();
+            return FALSE;
+        }
+        $conn = null;
+    }
+    public function read($tableName) {
+        try {
+            $conn = new PDO("mysql:host=$this->servername;dbname=$this->dbname", $this->username, $this->password);
+            // set the PDO error mode to exception
+            $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+            
+            $return =  $conn->query('SELECT * FROM '.$tableName)->fetchAll();
+            return $return;
+            
         } catch (PDOException $e) {
             echo "Error: " . $e->getMessage();
         }
         $conn = null;
     }
-    
     private function implodeName($arrayNames, $glue = array('before' => '', 'after' => '',)) {
         $stringName = '';
         $before = $glue['before'];
